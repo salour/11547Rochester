@@ -1,8 +1,12 @@
 ## Welcome to 11547 Rochester ave discussions
 
-You can use the [editor on GitHub](https://github.com/salour/11547Rochester/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In this page, I'm gattering all ideas and suggestions, to be incorportated to our building pictures by color/design consultant
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please note that contract is signed and painting will start in the week of 24th and paint colors should be selected by early week of 17th.
+
+Color consultant will be here next Saturday May 15th, please help our buiding become the best possible by your active participation.
+
+Please send your favorit pictures and color designs to salour.savoji@gmail.com, so I can incorported in this page.
 
 ### Our Current 
 
@@ -19,6 +23,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Other new buildings in area
 
-### Support or Contact
+![Area 1](https://salour.github.io/11547Rochester/Buildings/B1.jpg)
+![Area 2](https://salour.github.io/11547Rochester/Buildings/C1.jpg)
+![Area 3](https://salour.github.io/11547Rochester/Buildings/D1.jpg)
+![Area 4](https://salour.github.io/11547Rochester/Buildings/E2.jpg)
+![Area 5](https://salour.github.io/11547Rochester/Buildings/F2.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Please send your Suggestions/Ideas
+
+Please send your favorit designs to salour.savoji@gmail.com
