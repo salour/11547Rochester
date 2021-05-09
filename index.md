@@ -4,37 +4,20 @@ You can use the [editor on GitHub](https://github.com/salour/11547Rochester/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-If you want to embed images, this is how you do it:
+### Our Current 
 
 ![Our Building](https://salour.github.io/11547Rochester/Buildings/Current1.jpg)
+![Our Building](https://salour.github.io/11547Rochester/Buildings/Current2.jpg)
+![Our Building](https://salour.github.io/11547Rochester/Buildings/Current3.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### New Building next to ours 
 
-```markdown
-Syntax highlighted code block
+![Next Building](https://salour.github.io/11547Rochester/Buildings/NextToUs2.jpg)
+![Next Building](https://salour.github.io/11547Rochester/Buildings/NextToUs3.jpg)
+![Next Building](https://salour.github.io/11547Rochester/Buildings/NextToUs4.jpg)
+![Next Building](https://salour.github.io/11547Rochester/Buildings/NextToUs5.jpg)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/salour/11547Rochester/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Other new buildings in area
 
 ### Support or Contact
 
