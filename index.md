@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 If you want to embed images, this is how you do it:
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Our Building](https://github.com/salour/11547Rochester/blob/gh-pages/Buildings/Current1.jpg)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
