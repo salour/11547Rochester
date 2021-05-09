@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 11547 Rochester ave discussions
 
 You can use the [editor on GitHub](https://github.com/salour/11547Rochester/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
