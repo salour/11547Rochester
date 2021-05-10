@@ -8,7 +8,7 @@ Please note that contract is signed and painting will start in the week of 24th 
 
 Color consultant will be here next Saturday May 15th, please help our buiding become the best possible by your active participation.
 
-Please send your favorit pictures and color designs to salour.savoji@gmail.com, so I can incorported in this page for further review.
+Please send your favorit pictures and color designs to salour.savoji@gmail.com, so I can add them to this page for further review.
 
 ### Our Current 
 
