@@ -1,5 +1,9 @@
 ## Welcome to 11547 Rochester ave discussions
 
+### Scheme 1
+![Design 1](https://salour.github.io/11547Rochester/New Folder/Scheme 1.jpg)
+
+
 In this page, I'm gattering all ideas and suggestions, to be simulated into our building pictures by color/design consultant.
 
 Altough Colors are not the only factor and the structure and other exterior elements play a major role in building beauty, but your suggestions can be simulated and help to find the best color pallete that majority of you will like it.
