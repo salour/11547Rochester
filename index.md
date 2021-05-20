@@ -1,37 +1,36 @@
 ## Welcome to 11547 Rochester ave discussions
 
-You can use the [editor on GitHub](https://github.com/salour/11547Rochester/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In this page, I'm gattering all ideas and suggestions, to be simulated into our building pictures by color/design consultant.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Altough Colors are not the only factor and the structure and other exterior elements play a major role in building beauty, but your suggestions can be simulated and help to find the best color pallete that majority of you will like it.
 
-### Markdown
+Please note that contract is signed and painting will start in the week of 24th and paint colors should be selected by early week of 17th.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Color consultant will be here next Saturday May 15th, please help our buiding become the best possible by your active participation.
 
-```markdown
-Syntax highlighted code block
+Please send your favorit pictures and color designs to salour.savoji@gmail.com, so I can add them to this page for further review.
 
-# Header 1
-## Header 2
-### Header 3
+### Our Current 
 
-- Bulleted
-- List
+![Our Building](https://salour.github.io/11547Rochester/Buildings/Current1.jpg)
+![Our Building](https://salour.github.io/11547Rochester/Buildings/Current2.jpg)
+![Our Building](https://salour.github.io/11547Rochester/Buildings/Current3.jpg)
 
-1. Numbered
-2. List
+### New Building next to ours 
 
-**Bold** and _Italic_ and `Code` text
+![Next Building](https://salour.github.io/11547Rochester/Buildings/NextToUs2.jpg)
+![Next Building](https://salour.github.io/11547Rochester/Buildings/NextToUs3.jpg)
+![Next Building](https://salour.github.io/11547Rochester/Buildings/NextToUs4.jpg)
+![Next Building](https://salour.github.io/11547Rochester/Buildings/NextToUs5.jpg)
 
-[Link](url) and ![Image](src)
-```
+### Other new buildings in area
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Area 1](https://salour.github.io/11547Rochester/Buildings/B1.jpg)
+![Area 2](https://salour.github.io/11547Rochester/Buildings/C1.jpg)
+![Area 3](https://salour.github.io/11547Rochester/Buildings/D1.jpg)
+![Area 4](https://salour.github.io/11547Rochester/Buildings/E2.jpg)
+![Area 5](https://salour.github.io/11547Rochester/Buildings/F2.jpg)
 
-### Jekyll Themes
+### Please send your Suggestions/Ideas
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/salour/11547Rochester/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please send your favorit designs to salour.savoji@gmail.com
