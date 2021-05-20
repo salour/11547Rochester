@@ -1,7 +1,7 @@
 ## Welcome to 11547 Rochester ave discussions
 
 ### Scheme 1
-![Design 1](https://salour.github.io/11547Rochester/New Folder/Scheme 1.jpg)
+![Design 1](https://salour.github.io/11547Rochester/schemes/Scheme 1.jpg)
 
 
 In this page, I'm gattering all ideas and suggestions, to be simulated into our building pictures by color/design consultant.
