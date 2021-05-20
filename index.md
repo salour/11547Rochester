@@ -1,7 +1,7 @@
 ## Welcome to 11547 Rochester ave discussions
 
 ### Scheme 1
-![Our Building](https://salour.github.io/11547Rochester/Buildings/Current1.jpg)
+![Design 1](https://salour.github.io/11547Rochester/Buildings/Current1.jpg)
 ![Design 1](https://salour.github.io/11547Rochester/schemes/Scheme1.jpg)
 ### Scheme 2
 ![Design 2](https://salour.github.io/11547Rochester/schemes/Scheme2.jpg)
