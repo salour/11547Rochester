@@ -1,14 +1,14 @@
 ## Welcome to 11547 Rochester ave discussions
 
-### MJ Option 1
+### MJ Option 1 (202, 201)
 ![Design 1](https://salour.github.io/11547Rochester/schemes/option1.jpg) 
-### MJ Optio 2
+### MJ Optio 2 (201)
 ![Design 2](https://salour.github.io/11547Rochester/schemes/option2.jpg)
-### MJ Optio 3
+### MJ Optio 3 (201)
 ![Design 3](https://salour.github.io/11547Rochester/schemes/option3.jpg)
-### MJ Optio 4
+### MJ Optio 4 (201)
 ![Design 4](https://salour.github.io/11547Rochester/schemes/option4.jpg)
-### MJ Optio 5
+### MJ Optio 5 (201)
 ![Design 5](https://salour.github.io/11547Rochester/schemes/option5.jpg)
 ### Scheme 6 (PH1, 301, 202)
 ![Design 6](https://salour.github.io/11547Rochester/schemes/Scheme6.jpg)
