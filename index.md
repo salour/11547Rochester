@@ -1,15 +1,15 @@
 ## Welcome to 11547 Rochester ave discussions
 
-### Scheme 1
-![Design 1](https://salour.github.io/11547Rochester/schemes/img1.jpg) 
-### Scheme 2
-![Design 2](https://salour.github.io/11547Rochester/schemes/Scheme2.jpg)
-### Scheme 3
-![Design 3](https://salour.github.io/11547Rochester/schemes/Scheme3.jpg)
-### Scheme 4
-![Design 4](https://salour.github.io/11547Rochester/schemes/Scheme4.jpg)
-### Scheme 5
-![Design 5](https://salour.github.io/11547Rochester/schemes/Scheme5.jpg)
+### MJ Option 1
+![Design 1](https://salour.github.io/11547Rochester/schemes/option1.jpg) 
+### MJ Optio 2
+![Design 2](https://salour.github.io/11547Rochester/schemes/option2.jpg)
+### MJ Optio 3
+![Design 3](https://salour.github.io/11547Rochester/schemes/option3.jpg)
+### MJ Optio 4
+![Design 4](https://salour.github.io/11547Rochester/schemes/option4.jpg)
+### MJ Optio 5
+![Design 5](https://salour.github.io/11547Rochester/schemes/option5.jpg)
 ### Scheme 6 (PH1, 301, 202)
 ![Design 6](https://salour.github.io/11547Rochester/schemes/Scheme6.jpg)
 ### Scheme 7 (PH2, 202)
