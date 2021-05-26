@@ -12,7 +12,7 @@
 ![Design 5](https://salour.github.io/11547Rochester/schemes/option5.jpg)
 ### Scheme 6 (PH1, 301, 202)
 ![Design 6](https://salour.github.io/11547Rochester/schemes/Scheme6.jpg)
-### Scheme 6a (202)
+### Scheme 6a (??????????????????)
 ![Design 6](https://salour.github.io/11547Rochester/schemes/Scheme6a.jpg)
 ### Scheme 7 (PH2, 202)
 ![Design 7](https://salour.github.io/11547Rochester/schemes/Scheme7.jpg)
